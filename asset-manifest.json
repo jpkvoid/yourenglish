@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yourenglish/static/css/main.77a9be9b.css",
-    "main.js": "/yourenglish/static/js/main.4bc20d15.js",
+    "main.css": "/yourenglish/static/css/main.5154d83c.css",
+    "main.js": "/yourenglish/static/js/main.a40fbc9e.js",
     "static/js/787.481b82fa.chunk.js": "/yourenglish/static/js/787.481b82fa.chunk.js",
     "static/media/Tara_2.jpg": "/yourenglish/static/media/Tara_2.288412431c270ff6b1b5.jpg",
     "static/media/Tara_3.jpg": "/yourenglish/static/media/Tara_3.f53ea0185503f9da0cda.jpg",
@@ -9,12 +9,12 @@
     "static/media/logo.jpg": "/yourenglish/static/media/logo.345ee991719264148e53.jpg",
     "static/media/spotlight.png": "/yourenglish/static/media/spotlight.e0e7c61d99acff7e1d07.png",
     "index.html": "/yourenglish/index.html",
-    "main.77a9be9b.css.map": "/yourenglish/static/css/main.77a9be9b.css.map",
-    "main.4bc20d15.js.map": "/yourenglish/static/js/main.4bc20d15.js.map",
+    "main.5154d83c.css.map": "/yourenglish/static/css/main.5154d83c.css.map",
+    "main.a40fbc9e.js.map": "/yourenglish/static/js/main.a40fbc9e.js.map",
     "787.481b82fa.chunk.js.map": "/yourenglish/static/js/787.481b82fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77a9be9b.css",
-    "static/js/main.4bc20d15.js"
+    "static/css/main.5154d83c.css",
+    "static/js/main.a40fbc9e.js"
   ]
 }
